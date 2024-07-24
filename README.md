@@ -7,7 +7,12 @@
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|       Food        |
+|     2|         we      |
+|     3|           wi    |
+
 
 </details>
 
