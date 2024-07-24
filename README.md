@@ -18,9 +18,3 @@
 
 ## ABout Me
 This website will be made for Part #'s
-
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|       Food        |
-|     2|         we      |
-|     3|           wi    |
